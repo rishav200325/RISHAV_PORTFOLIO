@@ -104,7 +104,7 @@ const About = () => {
             <motion.img
               className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-full z-10 border-4 border-primary shadow-lg"
               alt="Keshav Khandelwal portrait"
-              src="https://raw.githubusercontent.com/rishav200325/first-C-code/refs/heads/main/1672860381766.jpeg?token=GHSAT0AAAAAADDFL3VXO6VZY2EBVK6VK3LI2AT2TYQ"
+              src="https://i.ibb.co/XZvQmSCk/rishav.jpg"
             />
 
             {/* Rotating Skills */}
